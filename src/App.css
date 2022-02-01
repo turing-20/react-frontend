@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+ul{
+  list-style-type: none;
+}
+li{
+  margin-top: 2rem;
+}
